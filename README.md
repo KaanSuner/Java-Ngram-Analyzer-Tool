@@ -1,1 +1,1 @@
-# Java-Ngram-Program
+# Java-Ngram-Analyzer-Tool
